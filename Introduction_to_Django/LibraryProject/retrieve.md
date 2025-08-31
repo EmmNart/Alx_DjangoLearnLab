@@ -1,3 +1,8 @@
+
+---
+
+### 📄 `retrieve.md` ✅ (fixed with `Book.objects.get("1984")`)
+```markdown
 # Retrieve Book
 
 ```python

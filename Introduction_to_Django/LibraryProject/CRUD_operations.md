@@ -1,9 +1,6 @@
+# CRUD Operations for Book Model
 
 ---
-
-### `CRUD_operations.md`
-```markdown
-# CRUD Operations for Book Model
 
 ## Create
 ```python

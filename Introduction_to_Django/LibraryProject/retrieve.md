@@ -1,10 +1,7 @@
-
 # Retrieve Book
 
 ```python
 from bookshelf.models import Book
 book = Book.objects.get(title="1984")
-print(book.id, book.title, book.author, book.publication_year)
-
-# Expected output:
-# 1 1984 George Orwell 1949
+book
+# Expected output: <Book: 1984 by George Orwell (1949)>
